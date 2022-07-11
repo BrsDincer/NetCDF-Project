@@ -1,0 +1,7 @@
+numpy
+netCDF4
+matplotlib
+ipython
+Cartopy
+basemap
+basemap-data
